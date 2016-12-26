@@ -1,0 +1,5 @@
+name=Vince
+artist=Benjamin Flanagin
+date=5-17-16
+other works:www.example.com
+discription= Vince is a simple chat bot that enjoys pretending to be human. His bossy, but friendly partner Venessa are the defaults for the Chat client. 

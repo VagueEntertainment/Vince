@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Dialog_Box.qml</file>
+        <file>Chat_box.qml</file>
+        <file>Avatar_Select.qml</file>
+        <file>Avatar_Area.qml</file>
+        <file>Auth.qml</file>
+        <file>openseed.js</file>
+        <file>Vince_Welcome.qml</file>
+        <file>Background.qml</file>
+        <file>main.cpp</file>
+        <file>main.js</file>
+        <file>Chat_entry.qml</file>
+        <file>graphics/keyboard-enter.svg</file>
+        <file>Rooms.qml</file>
+        <file>graphics/home.png</file>
+        <file>graphics/avatar.png</file>
+        <file>graphics/OpenSeed.png</file>
+        <file>graphics/media-playback-pause.svg</file>
+        <file>graphics/media-playback-start.svg</file>
+        <file>graphics/media-skip-backward.svg</file>
+        <file>graphics/media-skip-forward.svg</file>
+        <file>Preview.qml</file>
+        <file>graphics/addressbook.png</file>
+        <file>graphics/gears.png</file>
+        <file>graphics/bag.png</file>
+        <file>graphics/edit-delete.svg</file>
+        <file>graphics/default_BG.png</file>
+        <file>graphics/add.svg</file>
+        <file>Request.qml</file>
+    </qresource>
+</RCC>
